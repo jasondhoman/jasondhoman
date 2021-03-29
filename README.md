@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasondhoman
+- 👋 Hi, I’m Jay
 - 👀 I’m interested in node.js
 - 🌱 I’m currently learning react, next.js, and graphql
 - 💞️ I’m looking to collaborate on anything, always up for a challenge.
