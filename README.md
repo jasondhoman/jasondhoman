@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay
 - 👀 I’m interested in node.js
-- 🌱 I’m currently learning react, next.js, and graphql
+- 🌱 I’m currently learning vue, prisma, and fastapi
 - 💞️ I’m looking to collaborate on anything, always up for a challenge.
 - 📫 How to reach me jasondhoman@gmail.com
 
